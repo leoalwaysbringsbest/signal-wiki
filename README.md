@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Add HUB-SDK docs (#7775)
