@@ -1,1 +1,1 @@
-Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
