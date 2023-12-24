@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Explorer with LanceDB, Actions and Docs updates (#7487)
