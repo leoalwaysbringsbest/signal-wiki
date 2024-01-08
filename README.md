@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
