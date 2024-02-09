@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Faster batch same_shapes (#8851)
