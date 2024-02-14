@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+Update CITATION.cff with cffinit corrections (#8658)
