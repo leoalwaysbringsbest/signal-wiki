@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Update Colab notebook for YOLOv8.1 (#8660)
